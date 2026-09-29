@@ -34,14 +34,11 @@ Currently learning:
 * Reverse Engineering
 * x86 Assembly
 
-## 🛠️ Tech Stack
+## 🛠️ Currently Working With
 
-```text
-C++        ████████████████████
-Algorithms ████████████████████
-Linux      ████████░░░░░░░░░░░░
-Python     ██████░░░░░░░░░░░░░░
-Security   █████░░░░░░░░░░░░░░░
-```
-
+- C++ — Competitive Programming
+- Linux — CTF & system fundamentals
+- Python — learning for cybersecurity
+- x86 Assembly — Reverse Engineering
+  
 > Learning by solving problems, building projects, and breaking things.
