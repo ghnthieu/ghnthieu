@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Trung Hieu 👋
 
-<!--
-**ghnthieu/ghnthieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Security student at **University of Information Technology (UIT)**
+💻 Competitive Programming | C++ | Algorithms & Data Structures
+🔐 Currently exploring Cybersecurity, CTF and Reverse Engineering
 
-Here are some ideas to get you started:
+## 🏆 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🥉 Provincial Informatics Excellent Student Competition
+* 🥈 Olympic KHTN Informatics — Grade 10
+* 🥉 Olympic KHTN Informatics — Grade 11
+* 🧩 2+ years of Competitive Programming experience
+
+## 💻 Competitive Programming
+
+**Language:** C++
+
+**Platforms:** CSES · Codeforces · LQDOJ
+
+**Focus:** Algorithms · Data Structures · Graphs · Dynamic Programming
+
+### Featured Repositories
+
+* 📚 [CSES Solutions](https://github.com/ghnthieu/CSES_Solutions)
+* 💻 [MyCode](https://github.com/ghnthieu/MyCode)
+
+## 🔐 Cybersecurity
+
+Currently learning:
+
+* Linux
+* Computer Networks
+* CTF
+* Reverse Engineering
+* x86 Assembly
+
+## 🛠️ Tech Stack
+
+```text
+C++        ████████████████████
+Algorithms ████████████████████
+Linux      ████████░░░░░░░░░░░░
+Python     ██████░░░░░░░░░░░░░░
+Security   █████░░░░░░░░░░░░░░░
+```
+
+> Learning by solving problems, building projects, and breaking things.
