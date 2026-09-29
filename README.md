@@ -6,10 +6,13 @@
 
 ## 🏆 Achievements
 
-* 🥉 Provincial Informatics Excellent Student Competition
-* 🥈 Olympic KHTN Informatics — Grade 10
-* 🥉 Olympic KHTN Informatics — Grade 11
+* 🎯 Member of the Provincial Informatics Team for the National Excellent Student Examination
+* 🥉 3rd Prize — Provincial Informatics Excellent Student Competition, Grade 10
+* 🥉 3rd Prize — Provincial Informatics Excellent Student Competition, Grade 11
+* 🥈 Silver Medal — Olympic KHTN Informatics, Grade 10
+* 🥉 Bronze Medal — Olympic KHTN Informatics, Grade 11
 * 🧩 2+ years of Competitive Programming experience
+
 
 ## 💻 Competitive Programming
 
